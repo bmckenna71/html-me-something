@@ -1,0 +1,19 @@
+h1 {
+    color:snow; 
+    background-color:darkolivegreen;
+}
+
+p {
+    color:snow; 
+    background-color:darkslategray;
+
+}
+
+div {
+    width:300px;
+    margin: auto;
+    border: 1px solid red;
+  }
+  </style>
+  </head>
+  <body>
